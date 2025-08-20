@@ -1,1 +1,2 @@
 --configs for formatter (null-ls, prettier, eslint, etc)
+--restarting my formatter file since i nuked it. It was breaking while i was trying to set up my lsps. I was still learning while creating my nvim setup
