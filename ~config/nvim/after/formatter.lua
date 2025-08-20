@@ -1,0 +1,1 @@
+--configs for formatter (null-ls, prettier, eslint, etc)
