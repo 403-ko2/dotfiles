@@ -1,4 +1,4 @@
-local null_ls = require("null-ls")
+local null_ls = require("null-ls")   --none-ls uses the same api as null-ls so you can do this safely. after this point is none-ls configurations its just easier to leave the variables the same so i dont have to change null-ls everywhere
 
 -- Helper function to safely add sources
 local function safe_builtin(builtin_path)
